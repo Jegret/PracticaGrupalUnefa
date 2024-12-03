@@ -1,0 +1,24 @@
+body{
+    font-family: Arial,sans-serif;
+    text-align: center;
+    background-color:bisque;
+}
+h1{
+    color:black;
+}
+#crypto-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+}
+.crypto{
+    background-color:white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 20px;
+    width:200px;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.1);
+}
